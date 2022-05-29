@@ -1,0 +1,8 @@
+<?XML VERSION="1.0" ENCODING="UTF-8" ?>
+<skills>
+	<api>postman</api>
+	<android>android studio</android>
+	<ios>xcode</ios>
+	<http>devtools</http>
+	<sniffing>charles/fiddler</sniffing>
+</skills>

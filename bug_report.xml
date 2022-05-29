@@ -1,1 +1,11 @@
-
+<?XML VERSION="1.0" ENCODING="UTF-8" ?>
+<bug_report>
+    <assignee>Back/Front-developer</assignee>
+    <project>Mail UI</project>
+    <sourceURL>http://somelink.com</sourceURL>
+    <reproduce steps>Click update button</reproduce steps>
+    <actual_result>error message</actual_result>
+    <expected_result>update mail web-interface</expected_result>
+    <reported>tester A</reported>
+    <environment>Chrome 99.0.428, 1370x764 viewport</environment>
+ </bug_report>
